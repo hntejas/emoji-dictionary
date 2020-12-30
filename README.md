@@ -1,2 +1,3 @@
 # emoji-dictionary
-Created with CodeSandbox
+
+Get to know the meaning of your favorite emojis

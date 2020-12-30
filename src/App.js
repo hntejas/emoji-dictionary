@@ -102,8 +102,9 @@ export default function App() {
 
       <h2>Emojis we support</h2>
       <div style={{ width: "80%", margin: "auto" }}>
-        {Object.keys(emojiDictionary).map((emoji) => (
+        {Object.keys(emojiDictionary).map((emoji, index) => (
           <span
+            key={index}
             style={{ padding: "0.5rem", display: "inline-block" }}
             onClick={() => selectInputHandler(emoji)}
           >
