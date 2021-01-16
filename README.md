@@ -23,7 +23,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/hntejas/emoji-dictionary/blob/main/public/images/demo-screenshot.jpg)
+![screenshot](https://github.com/hntejas/emoji-dictionary/blob/main/public/images/demo-screenshot.PNG)
 
 ### Built With
 
